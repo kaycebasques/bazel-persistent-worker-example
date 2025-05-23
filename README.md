@@ -1,4 +1,4 @@
-# bazel-persistent-worker-example
+# bazel-persistent-worker-python-json
 
 ## References
 
